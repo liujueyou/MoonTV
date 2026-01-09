@@ -1,5 +1,43 @@
 {
-  "cache_time": 7200,
-  "api_site": {
-  }
+	"cache_time": 7200,
+	"api_site": {
+		"dyttzy": {
+			"api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+			"name": "电影天堂",
+			"detail": "http://caiji.dyttzyapi.com",
+			"is_adult": false
+		},
+		"zy360": {
+			"api": "https://360zy.com/api.php/provide/vod",
+			"name": "360资源",
+			"is_adult": false
+		},
+		"jisu": {
+			"api": "https://jszyapi.com/api.php/provide/vod",
+			"name": "极速资源",
+			"detail": "https://jszyapi.com",
+			"is_adult": false
+		},
+		"dbzy": {
+			"api": "https://dbzy.tv/api.php/provide/vod",
+			"name": "豆瓣资源",
+			"is_adult": false
+		},
+		"wwzy": {
+			"api": "https://wwzy.tv/api.php/provide/vod",
+			"name": "旺旺短剧",
+			"is_adult": false
+		},
+		"ikun": {
+			"api": "https://ikunzyapi.com/api.php/provide/vod",
+			"name": "iKun资源",
+			"is_adult": false
+		},
+		"1080zyku": {
+			"api": "https://api.1080zyku.com/inc/api_mac10.php",
+			"name": "1080资源",
+			"detail": "https://api.1080zyku.com",
+			"is_adult": false
+		}
+	}
 }
